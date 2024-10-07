@@ -1,12 +1,12 @@
 # jpa-query-assignment3
 
-- [ ] Don't forget coffee!
-
-- [ ] You need to have four classes: Student, Tutor, Subject, and Address for this assignment.
-- [ ] The relationship between Tutor and Student is One to Many.
-- [ ] The relationship between Tutor and Subject is Many to Many.
+- [x] Don't forget coffee!
+- [x] You need to have four classes: Student, Tutor, Subject, and Address for this assignment.
+- [ ] Confirm the relationship between Tutor and Student is One to Many.
+- [ ] Confirm the relationship between Tutor and Subject is Many to Many.
 - [x] Download Hibernate template
-- [ ] To refresh your knowledge, look at the images and workshops on queries-1, queries2, and queries3.
+
+To refresh your knowledge, look at the images and workshops on queries-1, queries2, and queries3.
 
 ## Task 1 - Navigating Relationships (using member of)
 - [ ] Write a query to get the names of all students whose tutor can teach science.
