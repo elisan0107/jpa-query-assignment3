@@ -2,8 +2,8 @@
 
 - [x] Don't forget coffee!
 - [x] You need to have four classes: Student, Tutor, Subject, and Address for this assignment.
-- [ ] Confirm the relationship between Tutor and Student is One to Many.
-- [ ] Confirm the relationship between Tutor and Subject is Many to Many.
+- [x] Confirm the relationship between Tutor and Student is One to Many.
+- [x] Confirm the relationship between Tutor and Subject is Many to Many.
 - [x] Download Hibernate template
 
 To refresh your knowledge, look at the images and workshops on queries-1, queries2, and queries3.
