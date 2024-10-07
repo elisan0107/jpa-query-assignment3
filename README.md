@@ -17,4 +17,4 @@
 <span style="color: red;">Det vi vill ha är att få **namnet på ALLA(?) elever** vars handledare kan undervisa i t.ex. science.
 </span>.
 
-![My Picture](\jpa-query-assignment3\img.png)
+![My Picture](\img.png)
