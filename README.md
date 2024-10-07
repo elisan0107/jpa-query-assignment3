@@ -6,3 +6,5 @@
 - [ ] Relationen mellan Tutor och Student är One to Many.
 - [ ] Relationen mellan Tutor och Subject är Many to Many.
 - [x] Laddar ner Hibernate mall
+
+- [ ] För att uppdatera dina kunskaper, titta på bilderna och workshops om queries-1, queries-2 och queries.3
