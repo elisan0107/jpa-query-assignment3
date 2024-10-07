@@ -1,29 +1,39 @@
 # jpa-query-assignment3
 
-- [ ] don't forget coffe!
+- [ ] Don't forget coffee!
 
-- [ ] Du behöver ha fyra klasser: Student,Tutor, Subject och Address för denna uppgift.
-- [ ] Relationen mellan Tutor och Student är One to Many.
-- [ ] Relationen mellan Tutor och Subject är Many to Many.
-- [x] Laddar ner Hibernate mall
-- [ ] För att uppdatera dina kunskaper, titta på bilderna och workshops om queries-1, queries2 och queries.3
+- [ ] You need to have four classes: Student, Tutor, Subject, and Address for this assignment.
+- [ ] The relationship between Tutor and Student is One to Many.
+- [ ] The relationship between Tutor and Subject is Many to Many.
+- [x] Download Hibernate template
+- [ ] To refresh your knowledge, look at the images and workshops on queries-1, queries2, and queries3.
 
-## Uppgift-1- Navigera över relationer(med member of)
-- [ ] Skriv en query för att få namnet på alla elever vars tutor kan undervisa i science.
-- [ ] Vi kan skriva den här frågan på olika sätt. Men vad vi vill ha här är att använda member of .
-- [ ] Studenterna ska hämtas från frågan. Sedan kan du använda en ‘for each loop’ för att skriva ut dem.
-	- [ ] Detta accepteras inte om du hittar tutor från frågan(query) och sedan hittar eleverna till denna specifika tutor  med hjälp av Java-metoderna.
+## Task 1 - Navigating Relationships (using member of)
+- [ ] Write a query to get the names of all students whose tutor can teach science.
+- [ ] We can write this query in different ways. But what we want here is to use `member of`.
+- [ ] The students should be fetched from the query. Then you can use a 'for each loop' to print them out.
+  - [ ] This is not accepted if you find the tutor through the query and then find the students for that specific tutor using Java methods.
 
 🔴 **Important Note:** 
-Det vi vill ha är att få **namnet på ALLA(?) elever** vars handledare kan undervisa i t.ex. science.
-
+What we want is to get **the names of ALL (?) students** whose tutor can teach, for example, science.
 
 ![My Picture](img.png)
 
-## Uppgift-2- Report Query- Multiple fields (med join)
-- [ ] Skriv en query  för att hämta namnet på **alla studenter** och **namnet** på deras **handledare**(tutor)
+## Task 2 - Report Query - Multiple Fields (using join)
+- [ ] Write a query to fetch the **names of all students** and **the names** of their **tutors**.
 
-🔴 **Important Note:** Det finns olika sätt att göra detta. Men här vill vi att du använder en report query (sql) genom att använda join.
+🔴 **Important Note:** There are different ways to do this. But here, we want you to use a report query (SQL) by using `join`.
 
+## Task 3 - Report Query - Aggregation
+- [ ] Use aggregation to get the average semester length for the subjects.
 
-## Uppgift-3-Report Query- Aggregation
+## Task 4 - Query with Aggregation
+- [ ] Write a query that can return the maximum salary from the tutor table.
+
+## Task 5 - Named Query
+- [ ] Write a named query that can return all tutors with a salary higher than 10,000.
+
+🔴 **Important Note:** What is a named query?
+
+## Finally
+- [ ] Send your GitHub link to Google Classroom.
