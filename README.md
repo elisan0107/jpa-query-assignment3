@@ -19,3 +19,11 @@ Det vi vill ha är att få **namnet på ALLA(?) elever** vars handledare kan und
 
 
 ![My Picture](img.png)
+
+## Uppgift-2- Report Query- Multiple fields (med join)
+- [ ] Skriv en query  för att hämta namnet på **alla studenter** och **namnet** på deras **handledare**(tutor)
+
+🔴 **Important Note:** Det finns olika sätt att göra detta. Men här vill vi att du använder en report query (sql) genom att använda join.
+
+
+## Uppgift-3-Report Query- Aggregation
