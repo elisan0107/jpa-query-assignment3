@@ -13,3 +13,8 @@
 - [ ] Vi kan skriva den här frågan på olika sätt. Men vad vi vill ha här är att använda member of .
 - [ ] Studenterna ska hämtas från frågan. Sedan kan du använda en ‘for each loop’ för att skriva ut dem.
 	- [ ] Detta accepteras inte om du hittar tutor från frågan(query) och sedan hittar eleverna till denna specifika tutor  med hjälp av Java-metoderna.
+
+<span style="color: red;">Det vi vill ha är att få **namnet på ALLA(?) elever** vars handledare kan undervisa i t.ex. science.
+</span>.
+
+![My Picture](\jpa-query-assignment3\img.png)
