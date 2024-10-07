@@ -1,3 +1,3 @@
 # jpa-query-assignment3
 
-[ ] don't forget coffe!
+- [ ] don't forget coffe!
