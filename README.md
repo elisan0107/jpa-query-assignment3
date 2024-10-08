@@ -35,5 +35,12 @@ What we want is to get **the names of ALL (?) students** whose tutor can teach, 
 
 🔴 **Important Note:** What is a named query?
 
+A Named query is a query that can be identified by a name, a meaningful name.
+It is like using alias names.
+This will be done in an xml file and all the named queries will be written in this
+file. /Nahid
+
+This file will be under META-INF and it is called: orm.xml
+
 ## Finally
 - [ ] Send your GitHub link to Google Classroom.

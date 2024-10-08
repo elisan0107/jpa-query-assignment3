@@ -1,0 +1,3 @@
+For example if we want to find all the students for a specific tutor,
+ we can do as following:
+Tutor tutor = em.find(Tutor.class, 1);
